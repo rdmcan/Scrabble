@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "V//Dp+bzJ5BsD4gSNKd25yKiVqzaSx+NPeWZtU6p2296jlPQIiiHTWSg/47efqrv1TJZ17cJ0s2ZtRfzGqlufA==",
+  "success": true,
+  "projectFilePath": "D:\\rdmca\\Documents\\Portafolio\\Projects\\ScrabbleLibrary\\ScrabbleClient\\ScrabbleClient.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rdmca\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512",
+    "C:\\Users\\rdmca\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\rdmca\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\rdmca\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ScrabbleClient/1.0.0": {
+        "dependencies": {
+          "ScrabbleLibrary": "1.0.0"
+        },
+        "runtime": {
+          "ScrabbleClient.dll": {}
+        }
+      },
+      "ScrabbleLibrary/1.0.0": {
+        "runtime": {
+          "ScrabbleLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ScrabbleClient/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ScrabbleLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
